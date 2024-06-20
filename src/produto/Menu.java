@@ -7,7 +7,7 @@
 		 * atualizar informações do produto, 
 		 * excluir produto, comprar produto e sair da aplicação.
 		 */
-package menu;
+package produto;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
