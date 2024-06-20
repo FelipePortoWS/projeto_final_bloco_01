@@ -7,7 +7,7 @@
 		 * atualizar informações do produto, 
 		 * excluir produto, comprar produto e sair da aplicação.
 		 */
-package projeto_final_bloco_01;
+package menu;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
